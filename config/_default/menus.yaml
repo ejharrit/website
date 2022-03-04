@@ -8,15 +8,15 @@ main:
     url: '#about'
     weight: 10
   - name: Experience
-    url: '#posts'
+    url: '#experience'
     weight: 20
   - name: Posts
-    url: '#projects'
+    url: '#posts'
     weight: 30
   - name: Projects
-    url: '#talks'
+    url: '#projects'
     weight: 40
   - name: Contact
-    url: '#featured'
+    url: '#contact'
     weight: 50
 
