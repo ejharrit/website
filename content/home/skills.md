@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: "I have 8 years of experience using R, iuncluding the tidyverse and tidy models ecosystems and shiny"
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: "I have experience and education in A/B testing, econometric modeling and statistical modeling"
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- description: "I have completed the Unity Essentials Pathway and earned 4 badges so far in my Unity learning journey"
+  icon: unity
+  icon_pack: fab
+  name: Unity
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
